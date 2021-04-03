@@ -10,5 +10,5 @@
 - 📫 How to reach me: kalyan_kumar.alisetty@okstate.edu
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kalyankumaralisetty/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvem5pBhncZLUeCcT5Tg42tnB8k_Z-zoH1YA&usqp=CAU" alt="https://www.linkedin.com/in/kalyankumaralisetty/" height="32" width="32" /></a>
+<a href="https://www.linkedin.com/in/kalyankumaralisetty/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvem5pBhncZLUeCcT5Tg42tnB8k_Z-zoH1YA&usqp=CAU" alt="https://www.linkedin.com/in/kalyankumaralisetty/" height="64" width="128" /></a>
 </p>
