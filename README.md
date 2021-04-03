@@ -1,6 +1,6 @@
-<h1 align="center"> Hi there 👋, I'm Nikhil Gunti</h1>
+<h1 align="center"> Hi 👋, I'm Kalyan Kumar Alisetty</h1>
 
-<h3 align="center"> Data Scientist Intern at Concat Systems 💻   </h3>
+<h3 align="center"> Data Science Intern at Laredo Petroleum, Inc  </h3>
 
 
 
