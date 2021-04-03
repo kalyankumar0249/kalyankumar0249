@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kalyan Kumar Alisetty
+- 👋 Hi, I’m Kalyan Kumar Alisetty currently working as an Data Science Intern at Laredo Petroleum, Inc.
 - 👀 I’m interested in Deep Reinforcement Learning
 - 🌱 I’m currently learning ML, NLP, AI
 - 💞️ I’m looking to collaborate on Data Science Projects
